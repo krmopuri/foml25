@@ -1,11 +1,11 @@
 # Site settings
 course_name: Deep Learning
 course_description: "Deep Learning has lately become the driving force behind numerous high-performing AI/ML products deployed in
-real-world across diverse disciplines. Tech gaints such as Google, Microsoft, Facebook, Amazon, etc. have strongly been employing 
-the Deep Learning workforce in the past few years for developing a wide range of applications in Computer Vision, Natural Processing, etc.
-Hence, it has become one of the most sough after learning courses in recent times. In this predominantly theory course, we will discuss the various
+real-world across diverse disciplines. Tech giants such as Google, Microsoft, Facebook, Amazon, etc. have strongly been employing 
+the Deep Learning workforce in the past few years for developing various applications in Computer Vision, Natural Processing, etc.
+Hence, it has recently become one of the most sought-after learning courses. In this predominantly theory course, we will discuss the various
 building blocks required to realize the Deep Learning based solutions."
-course_semester: "Jan-May 2023"
+course_semester: "Jan-May 2024"
 
 baseurl: "/dl24" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site

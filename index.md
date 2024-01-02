@@ -1,14 +1,14 @@
 ---
 layout: home
 ---
-## (AI2100/AI5100) Deep Learning Course Contents
+## Deep Learning (AI5100) Course Contents
 
-Starting from an artificial neuron model, the aim of this course is to understand feed forward and recurrent architectures of Artificial Neural Networks, all the way to the modern Deep Neural Networks. Specifically, we will discuss the basic Neuron models (McCulloch Pitts, Perceptron), Multi-Layer Perceptron (MLP), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN) (LSTM and GRU). We will understand the representational ability of these models along with how to train them using the Gradient Descent technique using the Backpropagation algorithm. Specifically, we will discuss various optimization algorithms such as Nesterov Accelerated Gradient Descent, Adam, AdaGrad and RMSProp, etc. Towards the end, students of this course get exposed to important deep learning frameworks from computer vision and Natural Language Processing such as encoder-decoder architecture, attention mechanism, etc.
+Starting from an artificial neuron model, the aim of this course is to understand feed-forward, recurrent architectures of Artificial Neural Networks, all the way to the latest Generative AI models driven by Deep Neural Networks. Specifically, we will discuss the basic Neuron models (McCulloch Pitts, Perceptron), Multi-Layer Perceptron (MLP), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN, LSTM and GRU). We will understand these models' representational ability and how to train them using the Gradient Descent technique using the Backpropagation algorithm. We will then discuss the encoder-decoder architecture, attention mechanism and its variants. That will be followed by self-attention and Transformers. The next part of the course will be on Generative AI, wherein we will discuss Variational Autoencoders, GANs, Diffusion Models, GPT, BERT, etc. We will briefly discuss multi-modal representation learning (e.g., CLIP). Towards the end, students will be briefly exposed to some of the advanced topics and/or recent trends in deep learning.
 
 ## Logistics
 
-**Class Room**: A-LH-1 (02.01.2023 to 15.01.2023 & 18.02.2023 to 02.05.2023), B115 (16.01.2023 to 17.02.2023)
+**Class Room**: A-LH-1
 
 **Timings**: Slot-B (Monday-10:00-10:55, Wednesday-09:00-09:55, Thursday-11:00-11:55)
 
-Visit this page regularly for the updates and information regarding the course.<br>
+Visit this page regularly for updates and information regarding the course.<br>

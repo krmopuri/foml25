@@ -5,14 +5,44 @@ instructors:
 
 
 teaching_assistants:
-  - name: Susmit Agrawal (ai22mtech12002@iith.ac.in)
+  - name: Susmit Agrawal
     profile_pic: /_images/pp/susmit.png
     
-  - name:  Sairam Rebbapragada (ai20resch13001@iith.ac.in)
+  - name:  Sairam Rebbapragada 
     profile_pic: /_images/pp/person.png  
     
-  - name: Deepika Vemuri (ai22resch11001@iith.ac.in)
+  - name: Deepika Vemuri
     profile_pic: /_images/pp/person.png
     
-  - name: Rupa Kumari (ai22mtech11002@iith.ac.in)
+  - name: Rupa Kumari
+    profile_pic: /_images/pp/person.png
+  
+  - name: Kartik Srinivas
+    profile_pic: /_images/pp/person.png
+
+  - name: Savarana Datta Reddy
+    profile_pic: /_images/pp/person.png
+
+  - name: Lokesh Badisa
+    profile_pic: /_images/pp/person.png
+
+  - name: Adhvik Mani Sai
+    profile_pic: /_images/pp/person.png
+
+  - name: Dhatri Nanda
+    profile_pic: /_images/pp/person.png
+
+  - name: Vojeswitha Reddy
+    profile_pic: /_images/pp/person.png
+
+  - name: Vikhyath Kothamasu
+    profile_pic: /_images/pp/person.png
+
+  - name: Adepu Adarsh Sai
+    profile_pic: /_images/pp/person.png
+
+  - name: Arun Siddhardha
+    profile_pic: /_images/pp/person.png
+
+  - name: Vaishnavi W
     profile_pic: /_images/pp/person.png

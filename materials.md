@@ -8,9 +8,8 @@ permalink: /materials/
 
 ## Deep Learning
 
-- [Deep Learning textbook by Ian Goodfellow et al.](https://www.deeplearningbook.org/)
-- [NPTEL course by Prof. Mitesh Khapra, IITM](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU)
-- [Michael Nielsen's text book on NN & DL](http://neuralnetworksanddeeplearning.com/)
-- [DL course by François Fleuret, EPFL and Uni. of Geneva](https://fleuret.org/dlc/)
-- [PyTorch](https://pytorch.org/)
+- [Introduction to Statistical Learning textbook by Gareth James et al.](https://www.statlearning.com/)
+- [PR and ML book by Christopher M Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Understanding ML: From Theory to Algorithms book by Shai Shalev-Shwartz et al.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+
 

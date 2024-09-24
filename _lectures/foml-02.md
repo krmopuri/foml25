@@ -8,7 +8,7 @@ title: (foml-02) Unsupervised Learning - 2
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "USL Methods"
+tldr: "Key Unsupervised Learning techniques: GMM, Hierarchical Clustering, and PCA overview."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section

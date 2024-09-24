@@ -17,11 +17,11 @@ hide_from_announcments: false
 
 # optional
 links: 
-    - url: https://docs.google.com/presentation/d/16gs0eVap10aOx0u45i6y7iKadFqUTCZEhyeTJLh3iBE/edit?usp=share_link
+    - url: https://docs.google.com/presentation/d/16gs0eVap10aOx0u45i6y7iKadFqUTCZEhyeTJLh3iBE/edit?usp=sharing
       name: Hierarchical
-    - url: https://docs.google.com/presentation/d/1KkbjfhuQLq_3xwvtscF4qwLI84NpmxBrC3h2OedRRlM/edit?usp=share_link
+    - url: https://docs.google.com/presentation/d/1KkbjfhuQLq_3xwvtscF4qwLI84NpmxBrC3h2OedRRlM/edit?usp=sharing
       name: GMM
-    - url: https://docs.google.com/presentation/d/1iWyN2JFzPlzITVyCO_HyWqZAhPL59-XuMizFVefz_wc/edit?usp=share_link
+    - url: https://docs.google.com/presentation/d/1iWyN2JFzPlzITVyCO_HyWqZAhPL59-XuMizFVefz_wc/edit?usp=sharing
       name: PCA
     #- url: /static_files/presentations/code
     #  name: codes

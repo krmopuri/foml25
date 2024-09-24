@@ -1,5 +1,4 @@
 ---
-date: 2023-01-02
+date: 2024-09-21
 ---
-Jan 2, 2024: The course website is up!
-
+Sep 21, 2024: The course website is up!

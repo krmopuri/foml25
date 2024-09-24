@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-01-08
+date: 21-09-24
 title: (dl-03) Representational Power of an MLP
 
 # optional

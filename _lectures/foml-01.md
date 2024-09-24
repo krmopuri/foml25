@@ -25,3 +25,6 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: Other
 ---
+
+**Additional References**
+- [Introduction to Statistical Learning textbook by Gareth James et al.](https://www.statlearning.com/)

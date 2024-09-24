@@ -15,8 +15,6 @@ tldr: "Key Unsupervised Learning techniques: GMM, Hierarchical Clustering, and P
 hide_from_announcments: false
 
 
-
-
 # optional
 links: 
     - url: https://docs.google.com/presentation/d/16gs0eVap10aOx0u45i6y7iKadFqUTCZEhyeTJLh3iBE/edit?usp=share_link
@@ -29,3 +27,7 @@ links:
     #  name: codes
 
 ---
+
+**Additional References**
+- [Introduction to Statistical Learning textbook by Gareth James et al.](https://www.statlearning.com/)
+- [Clustering with Gaussian Mixtures by Andrew W. Moore, CMU](https://www.cs.cmu.edu/~cga/ai-course/gmm.pdf)

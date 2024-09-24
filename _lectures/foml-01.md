@@ -31,4 +31,4 @@ links:
 - [Chapter 22 of Understanding ML: From Theory to Algorithms book by Shai Shalev-Shwartz et al.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [Chapter 9 of PR and ML book by Christopher M Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Chapter 7 of Introduction to Machine Learning by Ethem Alpaydın](https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/)
-- [Chapter 25 of Machine Learning: a Probabilistic Perspective by Kevin Murphy][https://probml.github.io/pml-book/book0.html]
+- [Chapter 25 of Machine Learning: a Probabilistic Perspective by Kevin Murphy](https://probml.github.io/pml-book/book0.html)

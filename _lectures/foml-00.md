@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2024-01-03
-title: (dl-00) Introduction
+date: 14-09-24
+title: (foml-01) Unsupervised Learning - K-Means
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-TLDR: "Introduction to Deep Learning, a brief history of Artificial Neural Networks and logistics of this course."
+TLDR: "K-Means"
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
@@ -20,21 +20,8 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: /static_files/presentations/dl-00.pdf
+    - url: https://docs.google.com/presentation/d/1Aw-sOOkFx370RAMdDczk6esH17jDK1NuOMqWWXcEALg/edit?usp=share_link
       name: slides
     #- url: /static_files/presentations/lec.zip
     #  name: Other
 ---
-
-**Suggested Readings:**
-- [Chapter 1 of the AI textbook by Russell and Norvig](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
-
-**Additional References**
-- [Know your brain](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain)
-- [McCulloch-Pitts Neuron, 1943](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
-- [Hebbian Learning Princile by D. Hebb, 1949](https://pure.mpg.de/rest/items/item_2346268_3/component/file_2346267/content)
-- [Neocognitron by Fukushima, 1980](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf) and an excellent [Video Demo](https://www.youtube.com/watch?v=KAazjZoiCd0)
-- [Backprop for training NNs by Rumelhart et al. 1986](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
-- [Backprop applied to MNIST by Lecun, 1989](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
-- [AlexNet by Krizhevsky et al. 2012](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-- [ResNet by He et al. 2015](https://arxiv.org/abs/1512.03385)

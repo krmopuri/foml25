@@ -25,8 +25,8 @@ links:
     #  name: codes
     - url: https://docs.google.com/presentation/d/16gs0eVap10aOx0u45i6y7iKadFqUTCZEhyeTJLh3iBE/edit?usp=share_link
       name: Hierarchical
-    #- url: /static_files/presentations/lec.zip
-    #  name: Other
+    - url: https://docs.google.com/presentation/d/1KkbjfhuQLq_3xwvtscF4qwLI84NpmxBrC3h2OedRRlM/edit?usp=share_link
+     name: GMM
 
 # # optional
 # links: 

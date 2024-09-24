@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 14-09-24
+date: 2024-09-14
 title: (foml-01) Introduction to Unsupervised Learning
 
 # optional

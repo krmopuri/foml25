@@ -8,7 +8,7 @@ title: (foml-01) Introduction to Unsupervised Learning
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-TLDR: "K-Means"
+tldr: "K-Means"
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section

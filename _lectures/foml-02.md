@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 21-09-24
-title: (foml-02) Different Unsupervised Learning Algorithms
+date: 2024-09-21
+title: (foml-02) Unsupervised Learning - 2
 
 # optional
 # please use /static_files/notes directory to store notes

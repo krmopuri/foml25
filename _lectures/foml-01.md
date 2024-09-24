@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 14-09-24
-title: (foml-01) Unsupervised Learning - K-Means
+title: (foml-01) Introduction to Unsupervised Learning
 
 # optional
 # please use /static_files/notes directory to store notes
@@ -12,7 +12,7 @@ TLDR: "K-Means"
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcments: false
 
 # optional
 links: 

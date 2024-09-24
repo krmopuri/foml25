@@ -24,7 +24,7 @@ links:
     #- url: /static_files/presentations/code.zip
     #  name: codes
     - url: https://docs.google.com/presentation/d/16gs0eVap10aOx0u45i6y7iKadFqUTCZEhyeTJLh3iBE/edit?usp=share_link
-      name: slides
+      name: Hierarchical
     #- url: /static_files/presentations/lec.zip
     #  name: Other
 

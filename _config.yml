@@ -2,9 +2,8 @@
 course_name: Foundations of Machine Learning
 course_description: "Machine Learning has lately become the driving force behind numerous high-performing AI products deployed in
 real-world across diverse disciplines. Tech giants such as Google, Microsoft, Facebook, Amazon, etc. have strongly been employing 
-the Deep Learning workforce in the past few years for developing various applications in Computer Vision, Natural Processing, etc.
-Hence, it has recently become one of the most sought-after learning courses. In this predominantly theory course, we will discuss the various
-building blocks required to realize the Deep Learning based solutions."
+the Machine Learning workforce in the past few years for developing various applications in Computer Vision, Natural Processing, etc.
+Hence, it has recently become one of the most sought-after learning courses."
 course_semester: "Jul-Nov 2025"
 
 baseurl: "/foml25" # the subpath of your site, e.g. /blog/

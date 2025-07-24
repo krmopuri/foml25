@@ -1,14 +1,12 @@
 # Site settings
 course_name: Foundations of Machine Learning
-course_description: "In today’s rapidly evolving world, machine learning (ML) is crucial in driving innovation across
-industries. From healthcare and finance to e-commerce and autonomous systems, ML enables computers to learn from data 
-and make intelligent decisions. By understanding machine learning, individuals can harness the power of data to predict 
-trends, automate processes, and develop smarter applications. With the growing demand for AI-driven solutions, a strong 
-foundation in ML equips professionals with cutting-edge skills essential in shaping the future of technology 
-and solving real-world challenges."
-course_semester: "July-Dec 2024"
+course_description: "Machine Learning has lately become the driving force behind numerous high-performing AI products deployed in
+real-world across diverse disciplines. Tech giants such as Google, Microsoft, Facebook, Amazon, etc. have strongly been employing 
+the Machine Learning workforce in the past few years for developing various applications in Computer Vision, Natural Processing, etc.
+Hence, it has recently become one of the most sought-after learning courses."
+course_semester: "July-Nov 2025"
 
-baseurl: "/foml24" # the subpath of your site, e.g. /blog/
+baseurl: "/foml25" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dept. of AI, IITH"

@@ -1,17 +1,14 @@
 ---
 layout: home
 ---
-## Foundations of Machine Learning (CS5590) Course Contents
+## (AI2000/AI5000) Foundations of Machine Learning Course Contents
 
-Welcome to the Foundations on Machine Learning (FoML) course! In this course, you will explore the foundational concepts and techniques behind machine learning, a key driver of modern artificial intelligence. Whether you're a beginner or have some programming experience, this course will help you grasp the core principles, algorithms, and tools to develop predictive models and intelligent systems. You will engage in hands-on assignments, learn to analyze data, and implement popular machine learning models using Python. By the end, you'll be equipped with practical skills to solve real-world problems with machine learning.
-
-## Prerequisites
-Courses on Linear Lagebra, Probability, Optimization and Programming experience in Python.
+Welcome to the Foundations on Machine Learning (FoML) course! In this course, you will explore the foundational concepts and techniques behind machine learning, a key driver of modern artificial intelligence. Students will explore key concepts in supervised and unsupervised learning, probability theory, and neural networks, with a strong emphasis on the probabilistic and Bayesian approaches prevalent in modern machine learning. The course integrates mathematical concpets with hands-on programming experience, covering topics like linear models, kernel methods, and clustering techniques. By the end of the semester, students will be equipped with a deep understanding of machine learning principles and practical skills for data analysis and modeling.
 
 ## Logistics
 
-**Class Room**: Virtual
+**Class Room**: LHC-6
 
-**Timings**: Weekends
+**Timings**: Slot-C 
 
-Visit this page regularly for updates and information regarding the course.<br>
+Visit this page regularly for the updates and information regarding the course.<br>

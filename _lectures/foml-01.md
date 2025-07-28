@@ -20,7 +20,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: static_files/presentations/foml-01.pdf
+    - url: /static_files/presentations/foml-01.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
     #  name: Other

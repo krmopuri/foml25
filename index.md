@@ -9,6 +9,6 @@ Welcome to the Foundations on Machine Learning (FoML) course! In this course, yo
 
 **Class Room**: LHC-6
 
-**Timings**: Slot-C 
+**Timings**: Slot-S 
 
 Visit this page regularly for the updates and information regarding the course.<br>

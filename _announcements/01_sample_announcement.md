@@ -1,4 +1,4 @@
 ---
-date: 2025-07-27
+date: 2025-07-26
 ---
-July 27, 2025: The course website is up!
+July 26, 2025: The course website is up!

@@ -27,8 +27,5 @@ links:
 ---
 
 **Suggested Reading**
-- [Chapter 14 of Introduction to Statistical Learning textbook by Gareth James et al.](https://www.statlearning.com/)
-- [Chapter 22 of Understanding ML: From Theory to Algorithms book by Shai Shalev-Shwartz et al.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-- [Chapter 9 of PR and ML book by Christopher M Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-- [Chapter 7 of Introduction to Machine Learning by Ethem Alpaydın](https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/)
-- [Chapter 25 of Machine Learning: a Probabilistic Perspective by Kevin Murphy](https://probml.github.io/pml-book/book0.html)
+- [Chapter 1.0 and 1.1 from Bishop](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Chapters 1.1 to 1.4 from Shalev-Shwartz and Ben-David](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf)

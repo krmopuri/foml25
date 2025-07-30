@@ -1,37 +1,30 @@
 ---
 type: lecture
-date: 2024-09-21
-title: (foml-02) Unsupervised Learning - 2
+date: 2025-07-30
+title: (foml-02) Probability Refresher - 1
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Key Unsupervised Learning techniques: GMM, Hierarchical Clustering, and PCA overview."
+tldr: "Probability, sum rule, product rule, random variable, distribution, marginal, conditional, Bayes rule."
   
 # optional
-# set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
-
+# set it to true if you don't want this lecture to appear in the updates section
+hide_from_announcments: false
 
 # optional
 links: 
-    - url: https://docs.google.com/presentation/d/16gs0eVap10aOx0u45i6y7iKadFqUTCZEhyeTJLh3iBE/edit?usp=sharing
-      name: Hierarchical
-    - url: https://docs.google.com/presentation/d/1KkbjfhuQLq_3xwvtscF4qwLI84NpmxBrC3h2OedRRlM/edit?usp=sharing
-      name: GMM
-    - url: https://docs.google.com/presentation/d/1iWyN2JFzPlzITVyCO_HyWqZAhPL59-XuMizFVefz_wc/edit?usp=sharing
-      name: PCA
-    #- url: /static_files/presentations/code
+    #- url: /static_files/presentations/lec.zip
+    #  name: notes
+    #- url: /static_files/presentations/code.zip
     #  name: codes
-
+    - url: /static_files/presentations/foml-02.pdf
+      name: slides
+    - url: /static_files/presentations/foml-02-annotated.pdf
+      name: annotated-slides
 ---
 
 **Suggested Reading**
-- [Chapter 14 of Introduction to Statistical Learning textbook by Gareth James et al.](https://www.statlearning.com/)
-- [Clustering with Gaussian Mixtures by Andrew W. Moore, CMU](https://www.cs.cmu.edu/~cga/ai-course/gmm.pdf)
-- [Chapter 23 and 24 of Understanding ML: From Theory to Algorithms book by Shai Shalev-Shwartz et al.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-- [Chapter 9 of PR and ML book by Christopher M Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-- [Chapter 6 and 7 of Introduction to Machine Learning by Ethem Alpaydın](https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/)
-- [Chapter 11 of Machine Learning: a Probabilistic Perspective by Kevin Murphy](https://probml.github.io/pml-book/book0.html)
+- [Chapter 1.2.0 and 1.2.1 from Bishop](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)

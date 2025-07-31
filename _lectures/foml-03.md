@@ -25,8 +25,8 @@ links:
     #  name: Backprop-1
     - url: /static_files/presentations/foml-03.pdf
       name: slides
-    #- url: /static_files/presentations/code
-    #  name: codes
+    - url: /static_files/presentations/foml-03-annotated.pdf
+      name: annotated-slides
 
 ---
 

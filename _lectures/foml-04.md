@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-08-04
+date: 2025-08-06
 title: (foml-04) MLE
 
 # optional

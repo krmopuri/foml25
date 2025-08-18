@@ -25,10 +25,10 @@ links:
     #  name: Backprop-1
     - url: /static_files/presentations/foml-09.pdf
       name: slides
-    #- url: /static_files/presentations/foml-07-annotated.pdf
-    #  name: annotated-slides
+    - url: /static_files/presentations/foml-09-annotated.pdf
+      name: annotated-slides
 
 ---
 
 **Suggested Reading**
-- [Chapters 1.1 and 3.1.4 from Bishop book](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Chapters 1.1, 1.3 and 3.1.4 from Bishop book](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)

@@ -23,10 +23,10 @@ links:
     #  name: Gradient Descent
     #- url: /static_files/presentations/dl-05.pdf
     #  name: Backprop-1
-    #- url: /static_files/presentations/foml-11.pdf
-    #  name: slides
-    #- url: /static_files/presentations/foml-11-annotated.pdf
-    #  name: annotated-slides
+    - url: /static_files/presentations/foml-11.pdf
+      name: slides
+    - url: /static_files/presentations/foml-11-annotated.pdf
+      name: annotated-slides
 
 ---
 

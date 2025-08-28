@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-08-28
+date: 2025-09-01
 title: (foml-13) Probabilistic Generative Models
 
 # optional

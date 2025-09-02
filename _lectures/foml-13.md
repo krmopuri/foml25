@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-01
+date: 2025-09-03
 title: (foml-13) Probabilistic Generative Models
 
 # optional
@@ -23,12 +23,12 @@ links:
     #  name: Gradient Descent
     #- url: /static_files/presentations/dl-05.pdf
     #  name: Backprop-1
-    #- url: /static_files/presentations/foml-13.pdf
-    # name: slides
-    #- url: /static_files/presentations/foml-13-annotated.pdf
-    # name: annotated-slides
+    - url: /static_files/presentations/foml-13.pdf
+     name: slides
+    - url: /static_files/presentations/foml-13-annotated.pdf
+     name: annotated-slides
 
 ---
 
 **Suggested Reading**
-- [Chapters 1.5 from Bishop book](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Chapters 4.2 from Bishop book](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)

@@ -24,9 +24,9 @@ links:
     #- url: /static_files/presentations/dl-05.pdf
     #  name: Backprop-1
     - url: /static_files/presentations/foml-14.pdf
-     name: slides
+      name: slides
     - url: /static_files/presentations/foml-14-annotated.pdf
-     name: annotated-slides
+      name: annotated-slides
 
 ---
 

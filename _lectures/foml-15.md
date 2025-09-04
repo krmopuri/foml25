@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2025-09-04
-title: (foml-15) Discriminative Models
+title: (foml-15) Discriminant Functions
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Classification models that directly map input to target."
+tldr: "Linear Classification models that directly map input to target."
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section

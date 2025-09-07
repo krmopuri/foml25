@@ -8,7 +8,7 @@ title: (foml-17) Discriminative Models - The Perceptron
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "An ad hoc learning strategy of adding/subtracting the samples to previous parameters."
+tldr: "An ad hoc learning strategy of adding/subtracting the samples to learn the optimal parameters of a linear discriminant."
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section

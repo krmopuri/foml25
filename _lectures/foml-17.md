@@ -23,8 +23,8 @@ links:
     #  name: Gradient Descent
     #- url: /static_files/presentations/dl-05.pdf
     #  name: Backprop-1
-    #- url: /static_files/presentations/foml-17.pdf
-    #  name: slides
+    - url: /static_files/presentations/foml-17.pdf
+      name: slides
     #- url: /static_files/presentations/foml-17-annotated.pdf
     #  name: annotated-slides
 
@@ -32,3 +32,4 @@ links:
 
 **Suggested Reading**
 - [Chapters 4.1.7 from Bishop book](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Convergence proof for Perceptron](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf)

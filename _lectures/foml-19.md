@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-09-15
-title: (foml-19) Probabilistic Discriminative Models: Logistic Regression
+title: (foml-19) Probabilistic Discriminative Models - Logistic Regression
 
 # optional
 # please use /static_files/notes directory to store notes

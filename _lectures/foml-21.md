@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2025-09-17
-title: (foml-21) Logistic Regression - Newton Raphson Optimization
+title: (foml-21) Logistic Regression - Newton Raphson Optimization (IRLS)
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "A second-order optimization method to learn the parameters of logistic regression."
+tldr: "A second-order optimization method to learn the parameters of logistic regression; Iterative Re-weighted Least Sqaures."
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section

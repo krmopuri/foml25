@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-09-18
-title: (foml-22) Neural Networks
+title: (foml-22) Neural Networks - I
 
 # optional
 # please use /static_files/notes directory to store notes

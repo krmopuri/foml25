@@ -31,4 +31,4 @@ links:
 ---
 
 **Suggested Reading**
-- [Chapters 5 from Bishop book](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Chapter 5 from Bishop book](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)

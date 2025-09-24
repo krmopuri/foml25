@@ -8,7 +8,7 @@ title: (foml-23) Neural Networks - II
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "UAT and Backpropagation."
+tldr: "UAT and tasks and NN losses."
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section

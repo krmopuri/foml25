@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-06
-title: (foml-25) Unsupervised Learning - 1
+title: (foml-25) Clustering - 1
 
 # optional
 # please use /static_files/notes directory to store notes

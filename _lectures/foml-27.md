@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-13
-title: (foml-26) Clustering - 3
+title: (foml-27) Clustering - 3
 
 # optional
 # please use /static_files/notes directory to store notes

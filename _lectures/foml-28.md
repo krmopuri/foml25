@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-15
-title: (foml-27) Latent Variable Models, GMM, and EM algorithm
+title: (foml-28) Latent Variable Models, GMM, and EM algorithm
 
 # optional
 # please use /static_files/notes directory to store notes

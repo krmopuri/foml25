@@ -1,0 +1,30 @@
+---
+type: lecture
+date: 2025-10-16
+title: (foml-29) Principcal Component Analysis - 1
+
+# optional
+# please use /static_files/notes directory to store notes
+# thumbnail: /static_files/path/to/image.jpg
+
+# optional
+tldr: "Finding the directions in which the data varies more."
+  
+# optional
+# set it to true if you don't want this lecture to appear in the updates section
+hide_from_announcments: false
+
+# optional
+links: 
+    #- url: /static_files/presentations/lec.zip
+    #  name: notes
+    #- url: /static_files/presentations/code.zip
+    #  name: codes
+    - url: /static_files/presentations/foml-29.pdf
+      name: slides
+    - url: /static_files/presentations/foml-29-annotated.pdf
+    #  name: source-slides
+---
+
+**Suggested Reading**
+- [Chapter 12 of PR and ML book by Christopher M Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)

@@ -23,7 +23,7 @@ links:
     - url: /static_files/presentations/foml-29.pdf
       name: slides
     - url: /static_files/presentations/foml-29-annotated.pdf
-    #  name: source-slides
+      name: annotated-slides
 ---
 
 **Suggested Reading**

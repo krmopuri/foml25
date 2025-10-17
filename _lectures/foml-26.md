@@ -22,8 +22,8 @@ links:
     #  name: codes
     - url: /static_files/presentations/foml-26.pdf
       name: slides
-    #- url: /static_files/presentations/foml-26-annotated.pdf
-    #  name: annotated-slides
+    - url: /static_files/presentations/foml-26-annotated.pdf
+      name: annotated-slides
 ---
 
 **Suggested Reading**

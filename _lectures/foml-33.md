@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-30
-title: (foml-32) SVM for binary classification
+title: (foml-33) SVM for binary classification
 
 # optional
 # please use /static_files/notes directory to store notes
